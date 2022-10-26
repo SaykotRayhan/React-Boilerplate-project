@@ -1,0 +1,12 @@
+.dashboard-wrapper {
+  height: calc(100vh - 70px);
+  .map-wrapper {
+    height: calc(100vh - 135px);
+    .map-container {
+      width: 80%;
+    }
+    .card-container {
+      width: 20%;
+    }
+  }
+}
